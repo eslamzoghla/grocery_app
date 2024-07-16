@@ -1,16 +1,23 @@
-# grocery
+# Grocery
 
-A new Flutter project.
+Grocery App
 
-## Getting Started
+A comprehensive grocery management application designed to streamline the shopping experience for both admins and clients. Key features include an admin panel and user interface for showcasing product offers, a backend SQL database, and a robust architecture built with Cubit and Bloc. 
 
-This project is a starting point for a Flutter application.
+Admin Features:
+- Home Screen: Displays trending products with a search function.
+- Category Screen: Lists product categories.
+- Menu Screen: Allows editing of personal data.
+- Add Item: Enables admins to add new items with details such as amount, category, discount, and images.
 
-A few resources to get you started if this is your first Flutter project:
+Client Features:
+- Home Screen: Shows trending products with a search function.
+- Category Screen: Lists product categories.
+- Menu Screen: Allows clients to edit personal data.
+- Cart Screen: Displays products reserved in the cart.
+- Address Screen: Allows clients to add addresses to facilitate delivery.
+- My Orders: Shows order status, including ongoing and history.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Video
+https://github.com/user-attachments/assets/bb0d3636-a402-4d06-9d90-f1d872d495b3
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
